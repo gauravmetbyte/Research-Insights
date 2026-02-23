@@ -1,0 +1,8 @@
+streamlit
+arxiv
+requests
+pandas
+wordcloud
+matplotlib
+pytrends
+plotly
